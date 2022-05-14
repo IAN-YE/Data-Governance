@@ -111,4 +111,3 @@ plt.title('喝酒者患有冠心病比例')
 plt.legend(loc='upper right')
 
 plt.show()
-，
